@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/MongMhine/git-lesson.git
+git pull origin master
+
+
+git init
+git add .
+git commit -m "aa update"
+git push origin master
